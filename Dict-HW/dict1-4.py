@@ -1,9 +1,9 @@
 dict = {
-    "name": "zoey",
-    "surname": "seferli",
-    "age": "17",
+    "name": "Zoey",
+    "surname": "Everglen",
+    "age": 17,
     "personality": "artsy",
-    "city": "baku",
+    "city": "Baku",
     }
 # 1st-print, 2nd-add, 3rd-remove 
 print(dict["name"])
