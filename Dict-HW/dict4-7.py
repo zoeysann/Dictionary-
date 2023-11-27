@@ -27,7 +27,7 @@ dicts = {
 #task 7
 grades.update({"zoey":95})
 
-#for task 5 I've 2 idea
+#for task 5, I've 2 idea
 len=len(grades)
 sum=0
 
@@ -40,4 +40,3 @@ sum=0
 for i in grades:
     sum = sum + grades[i]
 print("Average: ", sum/len)
-    
